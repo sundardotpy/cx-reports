@@ -30,7 +30,7 @@ export default function Home() {
       <Header />
       <main className="mx-auto max-w-2xl px-6 py-12 sm:px-10">
         <span className="badge mb-4">Report Library</span>
-        <h1 className="mb-2 text-4xl font-black tracking-tight">Download reports</h1>
+        <h1 className="mb-2 text-4xl font-black tracking-tight">Wint User Report Download</h1>
         <p className="mb-8 text-sm text-ink/60">
           Enter a user ID and pull their Master or Taxation report as an Excel file.
         </p>

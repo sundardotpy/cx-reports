@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CX User Operations",
+  title: "Wint User Report Download",
   description: "Download Master and Taxation reports by user ID.",
   manifest: "/site.webmanifest",
   icons: {

@@ -1,6 +1,6 @@
 {
-  "name": "CX User Operations",
-  "short_name": "CX Reports",
+  "name": "Wint User Report Download",
+  "short_name": "Wint Reports",
   "description": "Download Master and Taxation reports by user ID.",
   "start_url": "/",
   "display": "standalone",

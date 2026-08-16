@@ -1,4 +1,4 @@
-# CX User Operations
+# Wint User Report Download
 
 Enter a user ID, download that user's Master or Taxation report as an Excel file.
 The server proxies the internal WintWealth API (so the host and `X-AUTH-TOKEN`
